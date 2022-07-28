@@ -38,3 +38,13 @@ terraform destroy
 ![Terraform Blocks](./img/1.png)
 
 ![Terraform Blocks](./img/2.png)
+
+## Terraform Meta-Arguments
+
+![Terraform Meta-Arguments](./img/3.png)
+
+![Terraform Meta-Arguments](./img/4.png)
+
+## To connect EC2
+
+To connect to EC2 is whit key pem, this key should be chmod 400
