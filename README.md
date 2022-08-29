@@ -49,4 +49,8 @@ terraform destroy
 
 To connect to EC2 is whit key pem, this key should be chmod 400
 
-## Imports
+## Data Sources
+
+![Data Sources](./img/5.png)
+
+![Data Sources](./img/6.png)
