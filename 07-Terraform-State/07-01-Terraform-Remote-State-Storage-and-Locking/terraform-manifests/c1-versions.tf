@@ -15,7 +15,7 @@ terraform {
 
     # Enable during Step-09     
     # For State Locking
-    dynamodb_table = "terraform-dev-state-table"    
+    #dynamodb_table = "terraform-dev-state-table"    
   
   }
 }

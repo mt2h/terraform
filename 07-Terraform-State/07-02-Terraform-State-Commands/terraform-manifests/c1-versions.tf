@@ -9,7 +9,7 @@ terraform {
   }
   # Adding Backend as S3 for Remote State Storage
   backend "s3" {
-    bucket = "terraform-stacksimplify"
+    bucket = "terraform-momo-stacksimplify"
     key    = "statecommands/terraform.tfstate"
     region = "us-east-1" 
 
