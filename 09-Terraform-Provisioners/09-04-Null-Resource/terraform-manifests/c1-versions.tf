@@ -6,15 +6,14 @@ terraform {
       source  = "hashicorp/aws"
       version = "~> 3.0"
     }
-  }
-  # Adding Backend as S3 for Remote State Storage
-  backend "s3" {
-    bucket = "terraform-momo-stacksimplify"
-    key    = "workspaces/terraform.tfstate"
-    region = "us-east-1" 
-
-    # For State Locking
-    dynamodb_table = "terraform-dev-state-table"     
+    null = {
+      source = "hashicorp/null"
+      version = "~> 3.0.0"
+    }
+    time = {
+      source = "hashicorp/time"
+      version = "~> 0.6.0"
+    }      
   }
 }
 
