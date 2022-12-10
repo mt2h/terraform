@@ -36,13 +36,11 @@ terraform destroy
 ## Terraform Blocks
 
 ![Terraform Blocks](./img/1.png)
-
 ![Terraform Blocks](./img/2.png)
 
 ## Terraform Meta-Arguments
 
 ![Terraform Meta-Arguments](./img/3.png)
-
 ![Terraform Meta-Arguments](./img/4.png)
 
 ## To connect EC2
@@ -52,5 +50,28 @@ To connect to EC2 is whit key pem, this key should be chmod 400
 ## Data Sources
 
 ![Data Sources](./img/5.png)
-
 ![Data Sources](./img/6.png)
+
+## Terraform Cloud
+
+Create a repo
+
+![Terraform Cloud](./img/7.png)
+
+Configure Terraform Cloud
+
+![Configure Terraform Cloud](./img/8.png)
+![Configure Terraform Cloud](./img/9.png)
+![Configure Terraform Cloud](./img/10.png)
+![Configure Terraform Cloud](./img/11.png)
+![Configure Terraform Cloud](./img/12.png)
+![Configure Terraform Cloud](./img/13.png)
+![Configure Terraform Cloud](./img/14.png)
+![Configure Terraform Cloud](./img/15.png)
+![Configure Terraform Cloud](./img/16.png)
+![Configure Terraform Cloud](./img/17.png)
+![Configure Terraform Cloud](./img/18.png)
+![Configure Terraform Cloud](./img/19.png)
+![Configure Terraform Cloud](./img/20.png)
+![Configure Terraform Cloud](./img/21.png)
+![Configure Terraform Cloud](./img/22.png)
