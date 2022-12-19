@@ -108,3 +108,27 @@ Configure Terraform Cloud
 ![Configure Terraform Cloud](./img/53.png)
 ![Configure Terraform Cloud](./img/54.png)
 ![Configure Terraform Cloud](./img/55.png)
+![Configure Terraform Cloud](./img/56.png)
+![Configure Terraform Cloud](./img/57.png)
+![Configure Terraform Cloud](./img/58.png)
+![Configure Terraform Cloud](./img/59.png)
+![Configure Terraform Cloud](./img/60.png)
+![Configure Terraform Cloud](./img/61.png)
+![Configure Terraform Cloud](./img/62.png)
+![Configure Terraform Cloud](./img/63.png)
+![Configure Terraform Cloud](./img/64.png)
+![Configure Terraform Cloud](./img/65.png)
+![Configure Terraform Cloud](./img/66.png)
+![Configure Terraform Cloud](./img/67.png)
+![Configure Terraform Cloud](./img/68.png)
+![Configure Terraform Cloud](./img/69.png)
+![Configure Terraform Cloud](./img/70.png)
+![Configure Terraform Cloud](./img/71.png)
+![Configure Terraform Cloud](./img/72.png)
+![Configure Terraform Cloud](./img/73.png)
+
+View Credentials
+
+```bash
+cat ~/.terraform.d/credentials.tfrc.json
+```
