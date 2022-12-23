@@ -132,3 +132,9 @@ View Credentials
 ```bash
 cat ~/.terraform.d/credentials.tfrc.json
 ```
+
+CLI Driven Workspace
+
+![Configure Terraform Cloud](./img/74.png)
+![Configure Terraform Cloud](./img/75.png)
+![Configure Terraform Cloud](./img/76.png)
