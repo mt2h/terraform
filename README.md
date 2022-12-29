@@ -151,3 +151,5 @@ CLI Driven Workspace
 ![Sentinel](./img/84.png)
 ![Sentinel](./img/85.png)
 ![Sentinel](./img/86.png)
+![Sentinel](./img/87.png)
+![Sentinel](./img/88.png)
