@@ -167,9 +167,8 @@ CLI Driven Workspace
 ## Other commands
 
 Refresh 
+
+```bash
 terraform plan --refresh-only
 terraform apply --refresh-only
-```bash
-
-```
 ```
