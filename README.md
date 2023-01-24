@@ -163,3 +163,13 @@ CLI Driven Workspace
 ![Sentinel](./img/96.png)
 ![Sentinel](./img/97.png)
 ![Sentinel](./img/98.png)
+
+## Other commands
+
+Refresh 
+terraform plan --refresh-only
+terraform apply --refresh-only
+```bash
+
+```
+```
